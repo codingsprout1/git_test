@@ -17,3 +17,4 @@ function practice3() {
   console.log(`${index} : ${value}`);
 }
 practice3();
+dd
